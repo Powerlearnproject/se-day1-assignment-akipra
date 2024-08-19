@@ -16,6 +16,7 @@ Structured programming:The introduction of structured programming languages like
 Rise of agile methodologies:The rise of Agile methodologies in the 2000s emphasized flexibility, collaboration, and rapid iteration.Agile methodologies transformed how software is developed, focusing on delivering small, incremental updates rather than completing entire projects before release 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 - Requirements: Gathering and documenting user needs and system requirements.
 - Design: Creating high-level and detailed designs of the software architecture and user interface.
 - Implementation: Writing code and building the software according to the design specifications.
