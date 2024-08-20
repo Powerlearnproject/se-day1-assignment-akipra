@@ -34,7 +34,7 @@ Developing an E-Commerce Website: An e-commerce website needs to adapt quickly t
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
--Software Developer: Responsible for writing code and implementing software solutions
+-Software Developer: Responsible for writing code and implementing software solutions.
 -Quality Assurance Engineer: Ensures software quality by designing and executing test plans.
 -Project Manager: Oversees the planning, execution, and delivery of software projects.
 
